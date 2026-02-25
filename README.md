@@ -17,7 +17,7 @@ Interactive visualization of quantum decoherence near black holes (Hawking radia
 
 ### 🔢 Floating-Point Artifacts (Root Convergence Visualization)  
 Geometric visualization of numerical precision failures in slowly converging sequences.  
-📄 Paper (Zenodo): https://doi.org/10.5281/zenodo.17974559  
+📄 Paper (Zenodo): https://doi.org/10.5281/zenodo.18761718 
 💻 Code: https://github.com/rishavjha8515-hub/iterated-root-convergence-visualization  
 📊 ~270+ views • 47 clones • 2 Zenodo downloads  
 
