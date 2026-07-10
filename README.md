@@ -1,43 +1,48 @@
-# Hi, I’m Rishav 👋
 
-I build open-source tools at the intersection of **quantum information**, **scientific visualization**, and **AI security** — focused on making advanced concepts accessible to students without institutional access.
+## rishavjha8515
+### Rishav Anand Kumar Jha
 
----
+```
+─────────────────────────────────────────────────
+ OS: ................ Human (Class of 2027)
+ Host: ............... Kandivali East, Mumbai, India
+ Kernel: ............. Physics + CS, self-compiled
+ IDE: ................ VS Code (Acer Aspire, 1GB/day)
 
-## 🔬 Featured Work
+ Languages.Physics: .. Quantum Decoherence, GR, QFT
+ Languages.Code: ..... Python, JS/React, LaTeX
+ Interests: .......... Black Holes, Quantum Systems
 
-### 🧬 Quantum Decoherence Framework  
-Interactive visualization of quantum decoherence near black holes (Hawking radiation, gravitational effects, information paradox).  
-📄 Paper (Zenodo): https://doi.org/10.5281/zenodo.18604527  
-💻 Code: https://github.com/rishavjha8515-hub/quantum-decohernce-black-hole  
-📊 ~1600+ views • 160+ clones • 500+ downloads  
-> Live demo not hosted due to compute/stability constraints; reproducible locally via README.
+ Contact
+ ─────────────────────────────────────────────────
+ Email ............... rishavjha8515@gmail.com
+ ORCID ................ 0009-0008-4552-4154
+ Research ............. zenodo.org (DOI: 10.5281/zenodo.17781173)
+ Mentor ............... Dr. Adam Almakroudi, Imperial College London
 
----
+ Achievement Stats
+ ─────────────────────────────────────────────────
+ ISEF 2026 ............ Finalist, Physics & Astronomy (Team India)
+ IRO 2026 .............. Semi-Finalist
+ IAAC 2026 ............. Bronze Honour, Final Round
+ USAII Global AI Hack .. Finalist (Team Tribyte — HealthPath)
+ AlamedaHacks 2026 ..... Top 4 of 193, international
+ IdeaSprint Lab2Launch . 1st Place, IISc Bangalore
+ Research Program ...... Indigo Research Scholar (1 of 15, 100% funded)
+─────────────────────────────────────────────────
+```
 
-### 🔢 Floating-Point Artifacts (Root Convergence Visualization)  
-Geometric visualization of numerical precision failures in slowly converging sequences.  
-📄 Paper (Zenodo): https://doi.org/10.5281/zenodo.18761718 
-💻 Code: https://github.com/rishavjha8515-hub/iterated-root-convergence-visualization  
-📊 ~300+ views • 82 clones • 2 Zenodo downloads  
+**📌 Pinned: Superposition**
+> An interactive educational game adapting my ISEF / S.T. Yau research on near-extremal
+> Reissner–Nordström black holes (the Meissner Gap) into 15 playable scenarios spanning
+> General Relativity, quantum decoherence, and black hole thermodynamics.
+> Built solo — backend simulation logic + frontend visualization.
+> 🔗 superpositionalpha.vercel.app
 
----
+**Also building**
+- **CryptoQR** — SHA-256 + Ed25519 cryptographic document verification, Top 4/193 at AlamedaHacks
+- **PhysicXports** — AI sports biomechanics platform (MediaPipe + XGBoost), live for grassroots athletes
+  🔗 physicxports.vercel.app
 
-### 🔐 CryptoQR  
-Cryptographic QR verification system to detect AI-forged documents using SHA-256 + Ed25519.  
-💻 Code: https://github.com/rishavjha8515-hub/cryptoqr  
-📊 ~490+ views • 580+ clones  
-
----
-
-## 🌍 Why I build
-I’m a first-generation student without lab access. I publish openly so students like me can learn without paywalls or expensive resources.
-
-## 🧠 Interests
-Quantum information • decoherence & error correction • scientific visualization • AI safety
-
----
-
-✨ Stay tuned for more astonishing open-source projects.
-
-📫 Contact: rishavjha8515@gmail.com
+*"From district-level science quiz to ORCID-holding researcher — one year, no shortcuts."*
+```
