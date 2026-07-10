@@ -7,7 +7,7 @@
  OS: ................ Human (Class of 2027)
  Host: ............... Kandivali East, Mumbai, India
  Kernel: ............. Physics + CS, self-compiled
- IDE: ................ VS Code (Acer Aspire, 1GB/day)
+ IDE: ................ VS Code (Acer Aspire)
 
  Languages.Physics: .. Quantum Decoherence, GR, QFT
  Languages.Code: ..... Python, JS/React, LaTeX
